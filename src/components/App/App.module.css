@@ -1,9 +1,0 @@
-.container {
-  width: 1440px;
-  padding: 16px;
-  padding-left: 156px;
-  padding-right: 156px;
-  display: flex;
-  flex-direction: column;
-  gap: 24px;
-}
